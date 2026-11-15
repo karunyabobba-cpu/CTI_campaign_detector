@@ -1,0 +1,6 @@
+indicator_value,indicator_type,mitre_technique,risk_score,threat_actor
+paypa1-verify.com,DOMAIN,T1566.002 - Spearphishing Link,92,APT-ShadowFin
+192.168.45.12,IP,T1583.003 - Virtual Private Server,88,APT-ShadowFin
+micros0ft-update.net,DOMAIN,T1566.001 - Spearphishing Attachment,95,UNC-4012
+10.200.14.88,IP,T1071.001 - Web Protocols,85,UNC-4012
+amazon-refunds.org,DOMAIN,T1598.003 - Spearphishing for Information,79,APT-ShadowFin

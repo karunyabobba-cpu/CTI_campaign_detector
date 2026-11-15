@@ -1,0 +1,7 @@
+msg_id,sender,subject,body,timestamp
+MSG001,support@paypa1-verify.com,Urgent: Account Suspended,Please verify your login at http://paypa1-verify.com/login from server 192.168.45.12 immediately.,2026-10-01 09:15:00
+MSG002,security@paypa1-verify.com,Security Alert: Unauthorized Access,Click http://paypa1-verify.com/secure to reset credentials hosted on 192.168.45.12.,2026-10-01 09:22:00
+MSG003,admin@micros0ft-update.net,Mandatory Password Reset,Update your corporate password via http://micros0ft-update.net/auth linked to 10.200.14.88.,2026-10-02 11:05:00
+MSG004,helpdesk@micros0ft-update.net,VPN Token Expired,Re-authenticate at http://micros0ft-update.net/vpn before 5 PM (Node 10.200.14.88).,2026-10-02 11:18:00
+MSG005,billing@amazon-refunds.org,Invoice Overcharge Refund,Claim your refund now at http://paypa1-verify.com/claim or contact billing@amazon-refunds.org.,2026-10-03 14:40:00
+MSG006,newsletter@legit-university.edu,Weekly Campus Seminar,Join us this Friday at 3 PM in Auditorium B for the AI seminar.,2026-10-04 08:00:00
